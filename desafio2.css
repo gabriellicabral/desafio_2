@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+   background-color: darkcyan;
+   height: 100px;
+}
+li{
+    display:inline-block;
+    color:white;
+    font-size: 25px;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+main{
+    background-color: azure;
+}
+div{
+    
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom:60px;
+}
+img{
+    width: 200px;
+  
+    padding-left: 25px;
+    padding-top: 15px;
+    margin-top: 50px;
+    margin-left:35px;
+}
+h3{
+margin-left: 110px;
+}
+button{
+    margin-left:110px;
+}
+#bolinha{
+margin-left: 135px;
+}
+#caixinha{
+margin-left: 50px;
+}
+footer{
+    background-color: darkcyan;
+    color: white;
+   height:100px;
+   padding-left:30px;
+   padding-top: 30px;
+}
